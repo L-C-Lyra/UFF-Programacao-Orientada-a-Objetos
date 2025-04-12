@@ -15,7 +15,7 @@ public class Main {
         System.out.println("gas: ");
         gas = sc.nextInt();
 
-        avgV = (double) ((d / 1000) / (t / 60));
+        avgV = (double) ((d / t) * 60 / 1000);
         fuelGas = (double) ((d / 1000) / gas);
 
         System.out.println("Average Speed: " + avgV);

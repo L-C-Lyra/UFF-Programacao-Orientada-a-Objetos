@@ -20,7 +20,7 @@ public class Main {
         if(n < minAB){
             System.out.println("O Numero " + n + " esta ANTES do Intervalo (" + minAB + ", " + maxAB + ").");
         }else if(n > maxAB){
-            System.out.println("O Numero " + n + " esta DEPOIS do Intervalo (" + maxAB + ", " + minAB + ").");
+            System.out.println("O Numero " + n + " esta DEPOIS do Intervalo (" + minAB + ", " + maxAB + ").");
         }else{
             System.out.println("O Numero " + n + " esta DENTRO do Intervalo (" + minAB + ", " + maxAB + ").");
         }
