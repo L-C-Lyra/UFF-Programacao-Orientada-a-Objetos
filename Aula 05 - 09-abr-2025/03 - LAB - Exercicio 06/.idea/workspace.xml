@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c84ecb2-cf34-4944-bf41-60d849fd3f3a" name="Changes" comment="" />
+    <list default="true" id="780296b8-3382-46fd-8b48-2f2c095aaaba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../03 - LAB - Exercicio 01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03 - LAB - Exercicio 01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 - LAB - Exercicio 02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03 - LAB - Exercicio 02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 - LAB - Exercicio 03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03 - LAB - Exercicio 03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 - LAB - Exercicio 04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03 - LAB - Exercicio 04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 - LAB - Exercicio 05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03 - LAB - Exercicio 05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 - LAB - Exercicio 07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03 - LAB - Exercicio 07/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +38,9 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="2vdzftAvtiSEjrxGEYX4feKQfwU" />
+  <component name="ProjectId" id="2ve5n3YSkuQy8DWL6lAfRinZZZ3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,10 +53,6 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -67,12 +68,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7c84ecb2-cf34-4944-bf41-60d849fd3f3a" name="Changes" comment="" />
-      <created>1744489847523</created>
+      <changelist id="780296b8-3382-46fd-8b48-2f2c095aaaba" name="Changes" comment="" />
+      <created>1744492865714</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1744489847523</updated>
-      <workItem from="1744489848375" duration="1572000" />
+      <updated>1744492865714</updated>
+      <workItem from="1744492866780" duration="54000" />
     </task>
     <servers />
   </component>

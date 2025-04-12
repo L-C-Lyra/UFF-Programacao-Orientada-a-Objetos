@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af92ecf1-f55a-41b5-b9a8-7fed3c030808" name="Changes" comment="" />
+    <list default="true" id="af92ecf1-f55a-41b5-b9a8-7fed3c030808" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../03 - LAB - Exercicio 01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03 - LAB - Exercicio 01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 - LAB - Exercicio 03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03 - LAB - Exercicio 03/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "L-C-Lyra"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;L-C-Lyra&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/L-C-Lyra/UFF-Programacao-Orientada-a-Objetos.git",
-    "accountId": "d82fc3ac-66d0-4d20-93bd-b1d5bcaa07ca"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/L-C-Lyra/UFF-Programacao-Orientada-a-Objetos.git&quot;,
+    &quot;accountId&quot;: &quot;d82fc3ac-66d0-4d20-93bd-b1d5bcaa07ca&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2vdtpc254pQQLyGqjsW3UcpFFPc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,6 +51,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lucas/IntelliJProjects/TCC00328 - Programacao Orientada a Objetos/Aula 05 - 09-abr-2025/03 - LAB - Exercicio 03",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744486964630</updated>
       <workItem from="1744486965426" duration="1922000" />
+      <workItem from="1744492493906" duration="23000" />
     </task>
     <servers />
   </component>
